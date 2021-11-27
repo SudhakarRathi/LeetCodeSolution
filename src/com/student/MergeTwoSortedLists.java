@@ -44,8 +44,8 @@ public class MergeTwoSortedLists {
           ListNode n3 = new ListNode(2,n2);
           ListNode list1 = new ListNode(1,n3);
           /*
-          ListNode list2 = [1,3,4]
-          listlink.mergeTwoLists(list1,list2);*/
+          ListNode list2 = [1,3,4]*/
+//          listlink.mergeTwoLists(list1,list2);
 
           while (list1.val!=0){
 
