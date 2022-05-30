@@ -1,5 +1,8 @@
 package com.student;
 
+import java.io.BufferedReader;
+import java.io.File;
+import java.io.FileReader;
 import java.util.Map;
 import java.util.TreeMap;
 
@@ -14,5 +17,7 @@ public class Main {
 
         Map<String,String> mapObj = new TreeMap<>();
         mapObj.put("a","abc");
+
+        System.out.println("123456789".substring(0,6));
     }
 }
